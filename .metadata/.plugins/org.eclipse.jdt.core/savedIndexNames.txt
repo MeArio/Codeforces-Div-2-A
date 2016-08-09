@@ -1,0 +1,17 @@
+INDEX VERSION 1.129+/home/meario/Documents/Development/Github/Eclipse/Codeforces-Div-2-A/.metadata/.plugins/org.eclipse.jdt.core
+3090382067.index
+3486342692.index
+985044207.index
+3240154279.index
+1550466667.index
+670761657.index
+791336251.index
+2893257602.index
+1821639791.index
+3756526693.index
+2921090189.index
+3234110475.index
+3957089449.index
+16549448.index
+236752526.index
+1127026310.index
